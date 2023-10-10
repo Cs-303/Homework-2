@@ -3,6 +3,7 @@
 #Cs303
 
 Instruction: There will be a while loop for a Linked List menu that gives you 8 option to choose from.
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/a81ddda4-fa1b-4c02-ae28-ecbbc5b1da72)
 
 
 
