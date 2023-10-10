@@ -60,6 +60,8 @@ Function 5: Enter a position (integer) that you would like to insert in the list
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/458cd2be-97d6-4167-86b0-e0f6798a2ceb)
 
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/f42a2b47-4ac9-4a9f-bfde-5c915dc1c6df)
+
 
 
 Function 6: Enter a position (integer) that you would like to remove from list. Answer is returned in boolean.
