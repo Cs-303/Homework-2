@@ -6,6 +6,8 @@ Instruction: There will be a while loop for a Linked List menu that gives you 11
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/5bf90566-0e17-4076-a321-0a751b8ebf1f)
 
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
+
 
 Function 1: Enter a string that you would like to push front in the list
 
@@ -46,6 +48,10 @@ Function 4: Automatically pop back in the list
 
 Function 5: Enter a position (integer) that you would like to insert in the list. If position valid, then enter a string that you want you to insert.
 
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/d4816b15-242d-4321-a7dc-56614987e030)
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/084b7f80-808d-428a-8860-c636e0ba2e66)
 
 
 Function 6: Enter a position (integer) that you would like to remove from list. Answer is returned in boolean.
