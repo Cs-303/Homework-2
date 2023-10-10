@@ -98,6 +98,7 @@ Function 7: Enter a string that you would like to find in list. If not found, re
 Function 8: Automatically return front of list if possible
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/d2d93875-1cc4-426f-b2f1-e784344588e0)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/cabf07d9-574c-4f5b-b4f5-ede6574741fe)
 
 
@@ -105,6 +106,7 @@ Function 8: Automatically return front of list if possible
 Function 9: Automatically return back of list if possible
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ecb4c9f6-71ef-4055-b374-f9798e048a61)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ec8b853c-ef2f-48e2-8468-957487306528)
 
 
