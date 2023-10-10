@@ -33,8 +33,11 @@ Function 2: Enter a string that you would like to push back in the list
 Function 3: Automatically pop front in the list
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/39caa16d-969b-4b28-a73c-9611156e3486)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/b33c64a6-fed9-42db-8448-8d03928342f0)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/a4011de9-6e60-4ae3-85b9-8772e665e1dc)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/45804607-449b-4ae5-a411-a7f6de2e04e1)
 
 
