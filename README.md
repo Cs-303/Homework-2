@@ -4,7 +4,7 @@
 
 Instruction: There will be a while loop for a Linked List menu that gives you 11 option to choose from. It will continually show the current linked list.
 
-![image](https://github.com/Cs-303/Homework-2/assets/113368129/5bf90566-0e17-4076-a321-0a751b8ebf1f)
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/c66cdf97-8035-4c1e-bd72-53041e801820)
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
 
