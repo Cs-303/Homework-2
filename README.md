@@ -26,6 +26,7 @@ Function 2: Enter a string that you would like to push back in the list
 
 
 Function 3: Automatically pop front in the list
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/a0ae9d62-1647-4ca7-8358-e23abba3a91e)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ad95db0a-0729-4a43-899a-2f00ecc7459f)
 
