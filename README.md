@@ -27,9 +27,8 @@ Function 2: Enter a string that you would like to push back in the list
 
 Function 3: Automatically pop front in the list
 
-![image](https://github.com/Cs-303/Homework-2/assets/113368129/a0ae9d62-1647-4ca7-8358-e23abba3a91e)
-\n
-![image](https://github.com/Cs-303/Homework-2/assets/113368129/ad95db0a-0729-4a43-899a-2f00ecc7459f)
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/b39a1026-e7c1-439c-a51e-97eebd12c88e)
+
 
 
 Function 4: Automatically pop back in the list
@@ -40,5 +39,11 @@ Function 5: Enter a position (integer) that you would like to insert in the list
 Function 6: Enter a position (integer) that you would like to remove from list. Answer is returned in boolean.
 
 Function 7: Enter a position (integer) that you would like to find in list.
+
+Function 8: Automatically return front of list if possible
+
+Function 9: Automatically return back of list if possible
+
+Function 0: Automatically return bool statement if list is empty
 
 
