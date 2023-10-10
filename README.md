@@ -34,6 +34,8 @@ Function 3: Automatically pop front in the list
 
 
 Function 4: Automatically pop back in the list
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/39caa16d-969b-4b28-a73c-9611156e3486)
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/9233f99c-98b8-4b47-bb88-bc74cd3239d3)
 
 
 
