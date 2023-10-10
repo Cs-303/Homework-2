@@ -69,8 +69,11 @@ Function 6: Enter a position (integer) that you would like to remove from list. 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/e3864643-e50d-4637-9d4e-9f2d4faf153e)
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/3845ccef-7138-4678-8786-a3c0a42d8db9)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/9aefe3be-f253-4ad3-b5e4-381b03d1ff0e)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/c0030833-999a-4b17-9522-08efdb9b1529)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/4502b47e-8e18-4cd5-8a15-84c0dcb1d491)
 
 
