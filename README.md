@@ -10,7 +10,8 @@ Instruction: There will be a while loop for a Linked List menu that gives you 11
 Function 1: Enter a string that you would like to push front in the list
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/01fa8d4f-ee48-4fad-9fdb-f7dc22b8d051)
-![image](https://github.com/Cs-303/Homework-2/assets/113368129/36407084-7e37-4093-b8a5-5833a631184b)
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/b275b9cc-8b04-4e70-bf1b-dcae28653259)
+
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/8c05906c-767f-464d-b905-910a3cbc9728)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/7be16d8b-5d34-4154-bba4-23c6eea941e9)
