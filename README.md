@@ -67,6 +67,7 @@ Function 5: Enter a position (integer) that you would like to insert in the list
 Function 6: Enter a position (integer) that you would like to remove from list. Answer is determined if item is removed or not.
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/e3864643-e50d-4637-9d4e-9f2d4faf153e)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/3845ccef-7138-4678-8786-a3c0a42d8db9)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/9aefe3be-f253-4ad3-b5e4-381b03d1ff0e)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/c0030833-999a-4b17-9522-08efdb9b1529)
@@ -79,12 +80,14 @@ Function 6: Enter a position (integer) that you would like to remove from list. 
 Function 7: Enter a position (integer) that you would like to find in list.
 
 Function 8: Automatically return front of list if possible
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/d2d93875-1cc4-426f-b2f1-e784344588e0)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/cabf07d9-574c-4f5b-b4f5-ede6574741fe)
 
 
 
 Function 9: Automatically return back of list if possible
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ecb4c9f6-71ef-4055-b374-f9798e048a61)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ec8b853c-ef2f-48e2-8468-957487306528)
 
