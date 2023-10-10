@@ -2,7 +2,7 @@
 #steven Pham
 #Cs303
 
-Instruction: There will be a while loop for a Linked List menu that gives you 11 option to choose from. It will continually show the current linked list
+Instruction: There will be a while loop for a Linked List menu that gives you 11 option to choose from. It will continually show the current linked list.
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/5bf90566-0e17-4076-a321-0a751b8ebf1f)
 
@@ -78,8 +78,6 @@ Function 6: Enter a position (integer) that you would like to remove from list. 
 
 
 
-
-
 Function 7: Enter a string that you would like to find in list. If not found, returns the size of list.
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/986bf33a-8b5d-4b6a-967a-7b0b4909e583)
@@ -110,5 +108,8 @@ Function 0: Automatically return bool statement if list is empty
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/f1719827-8d42-48e2-9400-80fea6acf1b3)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/80510a32-94ec-4194-862a-6bded459da73)
 
+
+
+Function Q: Quits linked list menu. Goes to next question about abstract classes (employees).
 
 
