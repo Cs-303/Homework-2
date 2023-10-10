@@ -120,7 +120,8 @@ In the next section about employees, there are two derived classes: noprofession
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/fd089d5c-20ca-495d-a6ff-2fbb02539259)
 
-![image](https://github.com/Cs-303/Homework-2/assets/113368129/761bcbca-750f-4f4b-bd29-69aef892bf70)
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/1cc1a5dd-7750-43aa-a6d7-a73d24b8b7d0)
+
 
 
 
