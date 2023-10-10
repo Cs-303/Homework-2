@@ -110,6 +110,16 @@ Function 0: Automatically return bool statement if list is empty
 
 
 
-Function Q: Quits linked list menu. Goes to next question about abstract classes (employees).
+Function Q (or q): Quits linked list menu. Goes to next question about abstract classes (employees).
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/aa569b50-64b5-4de4-b816-9e6f5235d74d)
+
+
+
+In the next section about employees, there are two derived classes: noprofessional and professional. Instances are already created for both without need of user input.
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/70733f98-27f2-4fd7-be45-e8cada687973)
+
+
 
 
