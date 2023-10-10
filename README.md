@@ -9,6 +9,7 @@ Instruction: There will be a while loop for a Linked List menu that gives you 11
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
 
 
+
 Function 1: Enter a string that you would like to push front in the list
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/01fa8d4f-ee48-4fad-9fdb-f7dc22b8d051)
@@ -16,6 +17,7 @@ Function 1: Enter a string that you would like to push front in the list
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/8c05906c-767f-464d-b905-910a3cbc9728)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/7be16d8b-5d34-4154-bba4-23c6eea941e9)
+
 
 
 Function 2: Enter a string that you would like to push back in the list
@@ -27,13 +29,13 @@ Function 2: Enter a string that you would like to push back in the list
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/a08f74c1-f7e6-4cf5-8838-0f52f32f9c79)
 
 
+
 Function 3: Automatically pop front in the list
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/39caa16d-969b-4b28-a73c-9611156e3486)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/b33c64a6-fed9-42db-8448-8d03928342f0)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/a4011de9-6e60-4ae3-85b9-8772e665e1dc)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/45804607-449b-4ae5-a411-a7f6de2e04e1)
-
 
 
 
@@ -51,7 +53,13 @@ Function 5: Enter a position (integer) that you would like to insert in the list
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/d4816b15-242d-4321-a7dc-56614987e030)
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/084b7f80-808d-428a-8860-c636e0ba2e66)
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/f20540f6-2244-49db-b90e-1a099da5a237)
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/458cd2be-97d6-4167-86b0-e0f6798a2ceb)
+
 
 
 Function 6: Enter a position (integer) that you would like to remove from list. Answer is returned in boolean.
@@ -65,13 +73,16 @@ Function 8: Automatically return front of list if possible
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/cabf07d9-574c-4f5b-b4f5-ede6574741fe)
 
 
+
 Function 9: Automatically return back of list if possible
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ecb4c9f6-71ef-4055-b374-f9798e048a61)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/ec8b853c-ef2f-48e2-8468-957487306528)
 
 
+
 Function 0: Automatically return bool statement if list is empty
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/f1719827-8d42-48e2-9400-80fea6acf1b3)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/80510a32-94ec-4194-862a-6bded459da73)
+
 
 
