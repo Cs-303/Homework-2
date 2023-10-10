@@ -34,7 +34,7 @@ Function 2: Enter a string that you would like to push back in the list
 
 
 
-Function 3: Automatically pop front in the list
+Function 3: Automatically pop front in the list. If list is empty, throws error
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/39caa16d-969b-4b28-a73c-9611156e3486)
 
@@ -46,7 +46,7 @@ Function 3: Automatically pop front in the list
 
 
 
-Function 4: Automatically pop back in the list
+Function 4: Automatically pop back in the list. If list is empty, throws error
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/39caa16d-969b-4b28-a73c-9611156e3486)
 
