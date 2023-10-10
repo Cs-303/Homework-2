@@ -48,7 +48,7 @@ Function 4: Automatically pop back in the list
 
 
 
-Function 5: Enter a position (integer) that you would like to insert in the list. If position valid, then enter a string that you want you to insert.
+Function 5: Enter a position (integer) that you would like to insert in the list. If position valid, then enter a string that you want you to insert. 
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
 
@@ -80,7 +80,16 @@ Function 6: Enter a position (integer) that you would like to remove from list. 
 
 
 
-Function 7: Enter a position (integer) that you would like to find in list.
+Function 7: Enter a string that you would like to find in list. If not found, returns the size of list.
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/986bf33a-8b5d-4b6a-967a-7b0b4909e583)
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/42f83115-f2e8-4685-b138-a5242bd19c8d)
+
+![image](https://github.com/Cs-303/Homework-2/assets/113368129/2f1d69c7-6e71-4089-a073-b549b0a99219)
+
+
+
 
 Function 8: Automatically return front of list if possible
 
@@ -97,6 +106,7 @@ Function 9: Automatically return back of list if possible
 
 
 Function 0: Automatically return bool statement if list is empty
+
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/f1719827-8d42-48e2-9400-80fea6acf1b3)
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/80510a32-94ec-4194-862a-6bded459da73)
 
