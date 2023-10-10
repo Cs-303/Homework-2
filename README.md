@@ -48,7 +48,7 @@ Function 4: Automatically pop back in the list
 
 
 
-Function 5: Enter a position (integer) that you would like to insert in the list. If position valid, then enter a string that you want you to insert. 
+Function 5: Enter a position (integer) that you would like to insert in the list (Inserted to back to the end of list if beyond index). If position valid, then enter a string that you want you to insert. 
 
 ![image](https://github.com/Cs-303/Homework-2/assets/113368129/da2243d5-84e7-4a75-90e7-55b6a53c9fa3)
 
